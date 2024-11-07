@@ -16,9 +16,21 @@
 ![img](tablecompte.png)
 
 
-# table transactions :
+# table compte_transactions :
 
 ![img](tablecompte_transaction.png)
+
+
+# table transactions : 
+
+![img](tabletransaction.png)
+
+
+
+
+
+
+
 
 
 
